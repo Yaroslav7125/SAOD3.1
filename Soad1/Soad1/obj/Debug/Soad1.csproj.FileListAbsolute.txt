@@ -1,0 +1,7 @@
+D:\Desktop\SAOD3\Soad1\Soad1\bin\Debug\Soad1.exe.config
+D:\Desktop\SAOD3\Soad1\Soad1\bin\Debug\Soad1.exe
+D:\Desktop\SAOD3\Soad1\Soad1\bin\Debug\Soad1.pdb
+D:\Desktop\SAOD3\Soad1\Soad1\obj\Debug\Soad1.csprojAssemblyReference.cache
+D:\Desktop\SAOD3\Soad1\Soad1\obj\Debug\Soad1.csproj.CoreCompileInputs.cache
+D:\Desktop\SAOD3\Soad1\Soad1\obj\Debug\Soad1.exe
+D:\Desktop\SAOD3\Soad1\Soad1\obj\Debug\Soad1.pdb
